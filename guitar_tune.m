@@ -1,3 +1,8 @@
+%Author: Souri Guha <souriguha@gmail.com>
+%This is a matlab script to tune an acoustic guitar
+%However it can be modified to tune any musical instrument provided the frequencies of each note is known
+%Using FFT to serve the purpose
+
 clear all clc;
 
 x=1;
